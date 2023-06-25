@@ -1,5 +1,8 @@
 # SlimeJump
 
+#Inspiration:
+I was trying to make a game that doesn't have much complex controls so a single touch control felt like the way to go. I was initially gonna make a simple touch to jump game but saw this approach and decided to add this instead.
+
 #Controls:
 Drag the player to the direction you want the player to throw itself to. A line will appear to show your traversal path.
 
